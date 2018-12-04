@@ -12,7 +12,7 @@
 #!!#
 ########################################################################################################################
 
-namespace: cs_demo.content.library.integrations.demo.aos.tools
+namespace: io.cloudslang.demo.aos.tools
 
 operation:
   name: extract_filename
